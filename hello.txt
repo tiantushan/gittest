@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 hello world2
+=======
+hello world lisi
+>>>>>>> ad39fbc1e4b58a54d973d517a410bc0141a1df78
